@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hello there Askand Srivastava</h1>
 <h3 align="center">I believe that anyone and everyone can become a hero</h3>
 
@@ -7,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrivast1" alt="asrivast1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 💬 Ask me about **Java, Machine Learning, Data Science**
 
 - 📫 How to reach me **askandsrivastavaofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Raq2DSGZ5-iIPQodrYx7B6i_Lfn3Zlf4/view?usp=sharing](https://drive.google.com/file/d/1Raq2DSGZ5-iIPQodrYx7B6i_Lfn3Zlf4/view?usp=sharing)
+- 📄 Know about my experiences [Check out my resume](https://drive.google.com/file/d/1Raq2DSGZ5-iIPQodrYx7B6i_Lfn3Zlf4/view?usp=sharing)
 
-- ⚡ Fun fact **I hate coffee**
+- ⚡ Fun fact **I am alive**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,6 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asrivast1&show_icons=true&locale=en&layout=compact" alt="asrivast1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asrivast1&show_icons=true&locale=en" alt="asrivast1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrivast1&" alt="asrivast1" /></p>
-
