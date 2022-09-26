@@ -1,4 +1,4 @@
-<h1 align="center">Hello there Askand Srivastava</h1>
+<h1 align="center">Hello there 🤓, I am Askand Srivastava</h1>
 <h3 align="center">I believe that anyone and everyone can become a hero</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrivast1&label=Profile%20views&color=0e75b6&style=flat" alt="asrivast1" /> </p>
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Check out my resume](https://drive.google.com/file/d/1Raq2DSGZ5-iIPQodrYx7B6i_Lfn3Zlf4/view?usp=sharing)
 
-- ⚡ Fun fact **I am alive**
+- ⚡ Fun fact **Apart from coding, i love playing basketball**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
